@@ -1,0 +1,51 @@
+Script started on 2020-03-24 11:21:55+0900
+]0;root@DESKTOP-E96HT43: ~root@DESKTOP-E96HT43:~# mkdir Lang
+]0;root@DESKTOP-E96HT43: ~root@DESKTOP-E96HT43:~# mkdir Lang[K[K[K[KWebv[K
+]0;root@DESKTOP-E96HT43: ~root@DESKTOP-E96HT43:~# ls
+[0m[01;34mLang[0m  [01;34mWeb[0m  readme
+]0;root@DESKTOP-E96HT43: ~root@DESKTOP-E96HT43:~# Lang[K[K[K[Kcd Lang
+]0;root@DESKTOP-E96HT43: ~/Langroot@DESKTOP-E96HT43:~/Lang# cd Langls[Kcd Lang[K[K[K[KC
+bash: cd: C: No such file or directory
+]0;root@DESKTOP-E96HT43: ~/Langroot@DESKTOP-E96HT43:~/Lang# cd CLangls[Kmkdir Web[K[K[KC
+]0;root@DESKTOP-E96HT43: ~/Langroot@DESKTOP-E96HT43:~/Lang# mkdir C[KC#
+]0;root@DESKTOP-E96HT43: ~/Langroot@DESKTOP-E96HT43:~/Lang# mkdir C#[K[KJAVA
+]0;root@DESKTOP-E96HT43: ~/Langroot@DESKTOP-E96HT43:~/Lang# mkdir JAVA[K[K[K[KPytion[K[K[Khon
+]0;root@DESKTOP-E96HT43: ~/Langroot@DESKTOP-E96HT43:~/Lang# d[Kmi[K[Kcd ../L[KWeb/
+]0;root@DESKTOP-E96HT43: ~/Webroot@DESKTOP-E96HT43:~/Web# AS[K[Kdif[Kr ASP[K[K[K[K[K[K[Kmkdir ASP
+]0;root@DESKTOP-E96HT43: ~/Webroot@DESKTOP-E96HT43:~/Web# mkdir ASP[K[K[KPHP
+]0;root@DESKTOP-E96HT43: ~/Webroot@DESKTOP-E96HT43:~/Web# mkdir PHP[K[K[KJSP
+]0;root@DESKTOP-E96HT43: ~/Webroot@DESKTOP-E96HT43:~/Web# P[Kcd PHP/
+]0;root@DESKTOP-E96HT43: ~/Web/PHProot@DESKTOP-E96HT43:~/Web/PHP# cd[Kat > hello.php
+<?
+echo "Heell   llo PHP world: ";
+?>
+]0;root@DESKTOP-E96HT43: ~/Web/PHProot@DESKTOP-E96HT43:~/Web/PHP# cd ../../LA[Kang/C/
+]0;root@DESKTOP-E96HT43: ~/Lang/Croot@DESKTOP-E96HT43:~/Lang/C# cat > helloc[K.c
+#include<sti dio.h c h>
+int ma      
+int main(){^[[D ^[[C           {
+	printf("Hello C woi rld");^[[D^[[D           \n: ");
+
+	return 0;
+}
+]0;root@DESKTOP-E96HT43: ~/Lang/Croot@DESKTOP-E96HT43:~/Lang/C# readme[K[K[K[K[K[Kcat.c[K[K readme[K[K[K[K[K[K[K[K[K[Kreadme[K[K[K[K[K[Kcat readme>readme readme[C[C[C[C[C[C
+~/Lang/C/readme
+]0;root@DESKTOP-E96HT43: ~/Lang/Croot@DESKTOP-E96HT43:~/Lang/C# cd ../JAVA/
+]0;root@DESKTOP-E96HT43: ~/Lang/JAVAroot@DESKTOP-E96HT43:~/Lang/JAVA# ma[K[Kcat > hello.java
+class test{
+	public static void main(String args[]) {
+		System.out.println("Hello JAVA world");
+	}
+}
+]0;root@DESKTOP-E96HT43: ~/Lang/JAVAroot@DESKTOP-E96HT43:~/Lang/JAVA# cat > readme
+~/Lang/JAVA/hello.java           
+/s  ]0;root@DESKTOP-E96HT43: ~/Lang/JAVAroot@DESKTOP-E96HT43:~/Lang/JAVA# ls
+hello.java  readme
+]0;root@DESKTOP-E96HT43: ~/Lang/JAVAroot@DESKTOP-E96HT43:~/Lang/JAVA# ..lrea[K[K[Krea[K[K[K[Kread[K[K[K[K/C/
+bash: ../C/: Is a directory
+]0;root@DESKTOP-E96HT43: ~/Lang/JAVAroot@DESKTOP-E96HT43:~/Lang/JAVA# ../C/c../C/d../C/ ../C/
+]0;root@DESKTOP-E96HT43: ~/Lang/Croot@DESKTOP-E96HT43:~/Lang/C# ls
+hello.c  readme
+]0;root@DESKTOP-E96HT43: ~/Lang/Croot@DESKTOP-E96HT43:~/Lang/C# exit
+
+Script done on 2020-03-24 11:40:02+0900
